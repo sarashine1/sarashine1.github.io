@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{ text-align: center;}
+hr{ color: crimson;}
+img{
+	height: 100px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.do{
+	color: red;}
+.den{ color: black;}
+
+.a {
+}
+.vang{ color: yellow;}
+body{ padding-left: 20%; padding-right: 20%}
